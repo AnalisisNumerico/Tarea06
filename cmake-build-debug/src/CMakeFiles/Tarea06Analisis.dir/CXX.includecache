@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ger534/CLionProjects/Tarea06Analisis/src/main.cpp
+boost/program_options.hpp
+-
+iostream
+-
+iterator
+-
+

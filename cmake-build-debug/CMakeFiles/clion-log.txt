@@ -1,0 +1,30 @@
+/home/ger534/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/173.4674.29/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ger534/CLionProjects/Tarea06Analisis
+-- Boost version: 1.62.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+-- A library with BLAS API found.
+-- A library with BLAS API found.
+-- A library with LAPACK API found.
+-- Boost version: 1.62.0
+-- Found the following Boost libraries:
+--   program_options
+-- Boost version: 1.62.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   unit_test_framework
+-- A library with BLAS API found.
+-- A library with BLAS API found.
+-- A library with LAPACK API found.
+-- Boost version: 1.62.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   unit_test_framework
+-- A library with BLAS API found.
+-- A library with BLAS API found.
+-- A library with LAPACK API found.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ger534/CLionProjects/Tarea06Analisis/cmake-build-debug
